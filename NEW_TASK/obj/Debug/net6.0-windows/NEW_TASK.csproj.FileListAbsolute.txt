@@ -1,0 +1,17 @@
+D:\C_SHARP\NEW_TASK\NEW_TASK\bin\Debug\net6.0-windows\NEW_TASK.exe
+D:\C_SHARP\NEW_TASK\NEW_TASK\bin\Debug\net6.0-windows\NEW_TASK.deps.json
+D:\C_SHARP\NEW_TASK\NEW_TASK\bin\Debug\net6.0-windows\NEW_TASK.runtimeconfig.json
+D:\C_SHARP\NEW_TASK\NEW_TASK\bin\Debug\net6.0-windows\NEW_TASK.dll
+D:\C_SHARP\NEW_TASK\NEW_TASK\bin\Debug\net6.0-windows\NEW_TASK.pdb
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.csproj.AssemblyReference.cache
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.Form1.resources
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.csproj.GenerateResource.cache
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.AssemblyInfoInputs.cache
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.AssemblyInfo.cs
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.csproj.CoreCompileInputs.cache
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.dll
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\refint\NEW_TASK.dll
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.pdb
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\NEW_TASK.genruntimeconfig.cache
+D:\C_SHARP\NEW_TASK\NEW_TASK\obj\Debug\net6.0-windows\ref\NEW_TASK.dll
